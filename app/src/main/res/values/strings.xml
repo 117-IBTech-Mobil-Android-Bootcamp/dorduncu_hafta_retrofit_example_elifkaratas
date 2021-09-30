@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week4</string>
+    <string name="Task">Task</string>
+    <string name="Ok">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="enterTask">You can add task.</string>
+    <string name="register">Register</string>
+    <string name="giris_yapin">Giriş Yapın</string>
+    <string name="uye_degil_misin">Üye değil misin?</string>
+    <string name="ucretsiz_uye_ol">Ücretsiz Üye Ol</string>
+</resources>
